@@ -18,8 +18,8 @@
 
     ```
     cd ~/Code
-    git clone git@github.com:mdzhang/sinatra-vagrant-docker-test.git
-    cd sinatra-vagrant-docker-test
+    git clone git@github.com:mdzhang/sinatra-vagrant-test.git
+    cd sinatra-vagrant-test
     vagrant up
     ```
 

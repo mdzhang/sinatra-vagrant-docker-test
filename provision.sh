@@ -34,7 +34,7 @@ if [ ! -d ~/.rbenv/plugins/ruby-build ]; then
   source ~/.bashrc
 fi
 
-cd /sinatra-vagrant-docker-test
+cd /sinatra-vagrant-test
 # comment these 2 lines out if you want to run `vagrant reload --provision`
 rbenv install $(cat ./.ruby-version)
 rbenv global $(cat ./.ruby-version)
